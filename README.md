@@ -1,4 +1,4 @@
-Hi, I'm Ayush Pathak
+<b>Hi, I'm Ayush Pathak</b>
 Software Developer · .NET · C# · Backend · System Security
 
 Building secure applications · Exploring new technologies · Open-source enthusiast
