@@ -6,19 +6,15 @@ Software Developer | .NET Engineer | Open-Source Contributor
 </p>
 
 💻 Building secure and scalable applications <br>
-🔐 Interested in system security and backend engineering
-🌱 Always learning something new
-📍 Jabalpur, India
+🔐 Interested in system security and backend engineering <br>
+🌱 Always learning something new <br>
+📍 Jabalpur, India <br>
 ⚡ Tech Stack
-<p>
+/* <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,react,spring,mysql,git,github,visualstudio" alt="Tech stack"/>
-</p>
+</p> */
 
 📊 GitHub
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ayushpathak75&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpathak75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
 
 🐍 Watch the Snake Eat My Contributions!
 <p align="center">
