@@ -4,7 +4,10 @@ Software Developer · .NET · C# · Backend · System Security
 Building secure applications · Exploring new technologies · Open-source enthusiast
 
 Always happy to chat about tech — or anything interesting.
+
+
 ---
+
 🐍 GitHub Contributions
 
 <!-- Hey, I'm Ayush Pathak 👋
@@ -23,9 +26,6 @@ Software Developer | .NET Engineer | Open-Source Contributor
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,react,spring,mysql,git,github,visualstudio" alt="Tech stack"/>
 </p> -->
 
-📊 GitHub
-
-🐍 Watch the Snake Eat My Contributions!
 <p align="center">
 <img src="https://raw.githubusercontent.com/ayushpathak75/ayushpathak75/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
 </p>
