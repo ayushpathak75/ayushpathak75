@@ -1,4 +1,13 @@
-Hey, I'm Ayush Pathak 👋
+Hi, I'm Ayush Pathak
+Software Developer · .NET · C# · Backend · System Security
+
+Building secure applications · Exploring new technologies · Open-source enthusiast
+
+Always happy to chat about tech — or anything interesting.
+---
+🐍 GitHub Contributions
+
+<!-- Hey, I'm Ayush Pathak 👋
 Software Developer | .NET Engineer | Open-Source Contributor
 
 <p align="center">
@@ -9,7 +18,7 @@ Software Developer | .NET Engineer | Open-Source Contributor
 🔐 Interested in system security and backend engineering <br>
 🌱 Always learning something new <br>
 📍 Jabalpur, India <br>
-⚡ Tech Stack
+⚡ Tech Stack -->
 <!-- <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,react,spring,mysql,git,github,visualstudio" alt="Tech stack"/>
 </p> -->
