@@ -5,7 +5,7 @@ Software Developer | .NET Engineer | Open-Source Contributor
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+cool+software+%F0%9F%9A%80;C%23+%7C+.NET+%7C+WPF;Backend+%7C+Security+%7C+APIs" alt="Typing SVG"/>
 </p>
 
-💻 Building secure and scalable applications
+💻 Building secure and scalable applications <br>
 🔐 Interested in system security and backend engineering
 🌱 Always learning something new
 📍 Jabalpur, India
