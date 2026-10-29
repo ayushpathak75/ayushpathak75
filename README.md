@@ -10,9 +10,9 @@ Software Developer | .NET Engineer | Open-Source Contributor
 🌱 Always learning something new <br>
 📍 Jabalpur, India <br>
 ⚡ Tech Stack
-/* <p>
+<!-- <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,react,spring,mysql,git,github,visualstudio" alt="Tech stack"/>
-</p> */
+</p> -->
 
 📊 GitHub
 
