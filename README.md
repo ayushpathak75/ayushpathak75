@@ -1,11 +1,15 @@
-**Hi, I'm Ayush Pathak** <br>
+**Hi, I'm Ayush Pathak** <br> <br>
 Software Developer · .NET · C# · Backend · System Security
 
 Building secure applications · Exploring new technologies · Open-source enthusiast
 
 Always happy to chat about tech — or anything interesting.
 
-
+<p align="center">
+  <a href="https://github.com/yuvraj-singh-lodhi">
+    <img src="https://komarev.com/ghpvc/?username=ayushpathak75&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 ---
 
 🐍 GitHub Contributions
